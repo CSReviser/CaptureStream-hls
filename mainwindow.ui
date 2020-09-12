@@ -34,7 +34,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>語学講座ダウンローダ</string>
+   <string>語学講座ダウンローダ(hls)</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <property name="sizePolicy">
@@ -768,7 +768,7 @@
           </font>
          </property>
          <property name="text">
-          <string>ボキャブライダー(今週分）</string>
+          <string>ボキャブライダー(今週分)</string>
          </property>
          <property name="checkable">
           <bool>true</bool>

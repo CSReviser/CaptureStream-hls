@@ -49,10 +49,19 @@ private:
 	QStringList getAttribute( QString url, QString attribute );
 	bool checkExecutable( QString path );
 	bool isFfmpegAvailable( QString& path );
+	bool isOpensslAvailable( QString& path );
 	bool istestAvailable( QString& path );
 	bool checkOutputDir( QString dirPath );
 	void downloadENews( bool re_read );
 	
+	QString getMasterM3u8( QString file, QString prefixx );
+	QString getIndexM3u8( QString masterM3u8 );
+	QByteArray getCryptKey( QString indexM3u8 );
+	QStringList getSegmentUrlList( QString indexM3u8 );
+	QString downloadSegment( QString outputDir, QString segmentUrl );
+	bool decryptSegment( QString outputDir, QString segmentName, int index, QString cryptKey );
+	bool mergeSegments( QString outputDir, QStringList segmentNames, QString mp4Name );	
+	bool convertFormat( QString outputDir, QString mp4Name, QString outBasename, QString extension, QString id3tagTitle, QString kouza, QString hdate, QString file );
 	bool captureStream( QString kouza, QString hdate, QString file, QString nendo );
 	
 	QString formatName( QString format, QString kouza, QString hdate, QString file, QString nendo, bool checkIllegal );
@@ -78,6 +87,7 @@ private:
 	static QString flvstreamer;
 	static QString ffmpeg;
 	static QString test;
+	static QString openssl;
 	static QString scramble;
 	static QStringList malformed;
 
