@@ -4,15 +4,15 @@
 ※ ダウンロードした語学講座のファイルは著作権法で許されている範囲内でご利用ください。       
    
 ### 評価(master)最新リリース  
-GUI版  [2020/09/12版](https://github.com/CSReviser/CaptureStream-hls/releases/tag/20200912)   
+GUI版  [2020/10/05版](https://github.com/CSReviser/CaptureStream-hls/releases/tag/20201005)   
 Windows版:32ビット(※openssl.exeが別途必要です。)   
-[CaptureStream-hls-Windows-20200912.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20200912/CaptureStream-hls-Windows-20200912.zip)   
+[CaptureStream-hls-Windows-20201005.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20201005/CaptureStream-hls-Windows-20201005.zip)   
 Ubuntu版:64ビット : [バイナリビルド手順](https://github.com/CSReviser/CaptureStream/wiki/ビルド手順(hls版))                          
-【qt4】[CaptureStream-hls-Ubuntu-qt4-20200912.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20200912/CaptureStream-hls-Ubuntu-qt4-20200912.zip)                                                                                                            
-【qt5】[CaptureStream-hls-Ubuntu-qt5-20200912.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20200912/CaptureStream-hls-Ubuntu-qt5-20200912.zip)                                                                                                    　　　            
+【qt4】[CaptureStream-hls-Ubuntu-qt4-20201005.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20201005/CaptureStream-hls-Ubuntu-qt4-20201005.zip)                                                                                                            
+【qt5】[CaptureStream-hls-Ubuntu-qt5-20201005.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20201005/CaptureStream-hls-Ubuntu-qt5-20201005.zip)                                                                                                    　　　            
 
 
-### 2020年度の対応講座  
+### 2020年度後期の対応講座  
 [2020年度 NHK英語講座レベル一覧](https://eigoryoku.nhk-book.co.jp/cefr)                
 基礎英語0  
 基礎英語1  
@@ -26,7 +26,7 @@ Ubuntu版:64ビット : [バイナリビルド手順](https://github.com/CSRevis
 高校生からはじめる「現代英語」  
 エンジョイシンプルイングリッシュ    
 まいにち中国語  
-おもてなしの中国語  
+ステップアップ中国語  
 まいにちフランス語　　※１    
 まいにちイタリア語　　※１   
 まいにちハングル講座  
