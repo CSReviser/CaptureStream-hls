@@ -1,15 +1,15 @@
 ### CaptureStream
-ストリーミングで公開されているNHKラジオ語学講座のダウンロードを自動化するためのツールです。 開発が中断しているhttps://osdn.net/projects/capturestream/  の派生版です。 開発を引き継いだものではありません。ファイル自体のダウンロードにはffmpegを利用します。              
+ストリーミングで公開されているNHKラジオ語学講座のダウンロードを自動化するためのツールです。 開発が中断しているhttps://osdn.net/projects/capturestream/  の派生版です。 開発を引き継いだものではありません。hls方式ファイルのダウンロードに独自に対応しffmpegを使用していません。ffmpegはファイル形式変換に利用します。              
 2020年度版：らじる★らじる配信講座には対応していません。                  
 ※ ダウンロードした語学講座のファイルは著作権法で許されている範囲内でご利用ください。       
    
-### 安定版(master)最新リリース  
-GUI版  [2020/09/09版](https://github.com/CSReviser/CaptureStream/releases/tag/20200909)   
-Windows版:32ビット   
-[CaptureStream-Windows-20200909.zip](https://github.com/CSReviser/CaptureStream/releases/download/20200909/CaptureStream-Windows-20200909.zip)   
-Ubuntu版:64ビット : [バイナリビルド手順](https://github.com/CSReviser/CaptureStream/wiki/ubuntuビルド手順)                          
-【qt4】[CaptureStream-Ubuntu-qt4-20200909.zip](https://github.com/CSReviser/CaptureStream/releases/download/20200909/CaptureStream-Ubuntu-qt4-20200909.zip)                                                                                                            
-【qt5】[CaptureStream-Ubuntu-qt5-20200909.zip](https://github.com/CSReviser/CaptureStream/releases/download/20200909/CaptureStream-Ubuntu-qt5-20200909.zip)                                                                                                    　　　            
+### 評価(master)最新リリース  
+GUI版  [2020/09/12版](https://github.com/CSReviser/CaptureStream-hls/releases/tag/20200912)   
+Windows版:32ビット(※openssl.exeが別途必要です。)   
+[CaptureStream-hls-Windows-20200912.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20200912/CaptureStream-hls-Windows-20200912.zip)   
+Ubuntu版:64ビット : [バイナリビルド手順](https://github.com/CSReviser/CaptureStream/wiki/ビルド手順(hls版))                          
+【qt4】[CaptureStream-hls-Ubuntu-qt4-20200912.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20200912/CaptureStream-hls-Ubuntu-qt4-20200912.zip)                                                                                                            
+【qt5】[CaptureStream-hls-Ubuntu-qt5-20200912.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20200912/CaptureStream-hls-Ubuntu-qt5-20200912.zip)                                                                                                    　　　            
 
 
 ### 2020年度の対応講座  
