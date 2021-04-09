@@ -4,37 +4,35 @@
 ※ ダウンロードした語学講座のファイルは著作権法で許されている範囲内でご利用ください。       
    
 ### 評価(master)最新リリース  
-GUI版  [2020/10/05版](https://github.com/CSReviser/CaptureStream-hls/releases/tag/20201005)   
+GUI版  [2021/04/05版](https://github.com/CSReviser/CaptureStream-hls/releases/tag/20210405)   
 Windows版:32ビット(※openssl.exeが別途必要です。)   
-[CaptureStream-hls-Windows-20201005.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20201005/CaptureStream-hls-Windows-20201005.zip)   
+[CaptureStream-hls-Windows-20210405.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20210405/CaptureStream-hls-Windows-20210405.zip)   
 Ubuntu版:64ビット : [バイナリビルド手順](https://github.com/CSReviser/CaptureStream/wiki/ビルド手順(hls版))                          
-【qt4】[CaptureStream-hls-Ubuntu-qt4-20201005.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20201005/CaptureStream-hls-Ubuntu-qt4-20201005.zip)                                                                                                            
-【qt5】[CaptureStream-hls-Ubuntu-qt5-20201005.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20201005/CaptureStream-hls-Ubuntu-qt5-20201005.zip)                                                                                                    　　　            
+【qt4】[CaptureStream-hls-Ubuntu-qt4-20210405.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20210405/CaptureStream-hls-Ubuntu-qt4-20210405.zip)                                                                                                            
+【qt5】[CaptureStream-hls-Ubuntu-qt5-20210405.zip](https://github.com/CSReviser/CaptureStream-hls/releases/download/20210405/CaptureStream-hls-Ubuntu-qt5-20210405.zip)                                                                                                    　　　            
 
 
-### 2020年度後期の対応講座  
-[2020年度 NHK英語講座レベル一覧](https://eigoryoku.nhk-book.co.jp/cefr)                
-基礎英語0  
-基礎英語1  
-基礎英語2  
-基礎英語3  
-英会話タイムトライアル  
+### 2021年度の対応講座  
+小学生の基礎英語  
+中学生の基礎英語レベル1  
+中学生の基礎英語レベル2  
+中高生の基礎英語 in English  
+英会話タイムトライアル   
 ラジオ英会話  
-入門ビジネス英語  
-実践ビジネス英語  
-遠山顕の英会話楽習  
-高校生からはじめる「現代英語」  
-エンジョイシンプルイングリッシュ    
-まいにち中国語  
-ステップアップ中国語  
+ラジオビジネス英語     
+遠山顕の英会話楽習    
+高校生からはじめる「現代英語」     
+エンジョイ・シンプル・イングリッシュ      
+まいにち中国語     
+ステップアップ中国語    
 まいにちフランス語　　※１    
-まいにちイタリア語　　※１   
-まいにちハングル講座  
-おもてなしのハングル講座  
-まいにちドイツ語　　※１     
-まいにちスペイン語　　※１     
+まいにちイタリア語　　※１    
+まいにちハングル講座        
+ステップアップハングル講座         
+まいにちドイツ語　　※１    
+まいにちスペイン語　　※１    
 まいにちロシア語　　※１ 
-
+　　　
 ※１：１つのボタンに入門（初級）と応用（中級）を割り当てています。  
 ※２：カスタマイズメニューは一部の講座のみ2018年度対応で更新しています。    
 ※３：2020年度NHKゴガクHPリニューアル(らじる★らじる配信講座)は非対応です。    
@@ -42,7 +40,7 @@ Ubuntu版:64ビット : [バイナリビルド手順](https://github.com/CSRevis
 ボキャブライダー       
 世界へ発信！ニュースで英語術      
 アラビア語       
-ポルトガル語       
+ポルトガル語          
 
 ### 作者  
 [jakago](https://github.com/jakago) 2014年度版以前  
